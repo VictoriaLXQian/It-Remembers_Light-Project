@@ -24,7 +24,7 @@ void ofApp::setup(){
     
     std::string urlMilan = "https://api.darksky.net/forecast/352dc2df4f80b08a0b3d0b71250b3b7b/45.4642,9.1900";
     std::string urlHkg = "https://api.darksky.net/forecast/352dc2df4f80b08a0b3d0b71250b3b7b/22.3193,114.1694";
-    std::string urlNc = "https://api.darksky.net/forecast/352dc2df4f80b08a0b3d0b71250b3b7b/35.7796,-78.6382";
+    std::string urlNc = "https://api.darksky.net/forecast/352dc2df4f80b08a0b3d0b71250b3b7b/44.9778,-93.2650";
     bool nc = jsonNc.open(urlNc);
 //    bool milan = jsonMilan.open(urlMilan);
 //    bool hkg = jsonHkg.open(urlHkg);
